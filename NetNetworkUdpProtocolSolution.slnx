@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetNetworkUdpClientApp/NetNetworkUdpClientApp.csproj" />
+  <Project Path="NetNetworkUdpProtocolApp/NetNetworkUdpProtocolApp.csproj" />
+</Solution>
