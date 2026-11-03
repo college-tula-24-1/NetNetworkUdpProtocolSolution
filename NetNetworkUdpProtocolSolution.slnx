@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="NetNetworkUdpChatApp/NetNetworkUdpChatApp.csproj" Id="40edafdb-5f3c-4acc-88a4-c19eeb2a9fad" />
   <Project Path="NetNetworkUdpClientApp/NetNetworkUdpClientApp.csproj" />
   <Project Path="NetNetworkUdpProtocolApp/NetNetworkUdpProtocolApp.csproj" />
 </Solution>
